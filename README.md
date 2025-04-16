@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 👋 Hi, I’mShantanu
-- 😄 Pronouns: she/her
+- 😄 Pronouns: he/him
 - 👀 I’m interested in Computer Science
 - 🌱 I love to spend time listening to music, and creating music
 - 👨‍💻 I’m a student. I am pursuing Bachelor's degree in Technology from Amity University Punjab. 
